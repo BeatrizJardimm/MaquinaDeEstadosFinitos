@@ -1,4 +1,4 @@
-#Máquina de Estados Finitos
+# Máquina de Estados Finitos
 
 Repositório para o Trabalho 1 da Disciplina Construção de Interpretadores
 
